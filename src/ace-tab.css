@@ -1,0 +1,6 @@
+.ace-tab {
+  .ace-tab-header{
+  display: flex;
+   flex-direction:row
+}
+}
